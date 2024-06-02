@@ -22,6 +22,7 @@ function listaClientes() {
                 deleteButton.classList.add("btn-danger");
 
                 div.classList.add("col-3")
+                div.classList.add("mb-3")
 
 
                 deleteButton.onclick = () => {
