@@ -1,0 +1,1 @@
+const urlServer = "https://665b6cee003609eda460d807.mockapi.io/cliente/";
